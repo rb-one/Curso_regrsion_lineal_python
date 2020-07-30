@@ -1,5 +1,19 @@
 # Curso Práctico de Regresión Lineal con Python
 
+- [Curso Práctico de Regresión Lineal con Python](#curso-práctico-de-regresión-lineal-con-python)
+  - [Modulo 1 Bienvenida al curso](#modulo-1-bienvenida-al-curso)
+    - [Clase 1 Introduccion](#clase-1-introduccion)
+    - [Clase 2 Regresión Lineal y Machine Learning](#clase-2-regresión-lineal-y-machine-learning)
+    - [Clase 3 Explicacion Matematica de la Regresion Lineal](#clase-3-explicacion-matematica-de-la-regresion-lineal)
+  - [Modulo 3 Entendiendo el algoritmo de regresión lineal](#modulo-3-entendiendo-el-algoritmo-de-regresión-lineal)
+    - [Clase 4 Método de Minimos Cuadrados: Ecuacion](#clase-4-método-de-minimos-cuadrados-ecuacion)
+    - [Clase 5 Metodo de Mínimos Cuadrados: Despejando la Ecuacion](#clase-5-metodo-de-mínimos-cuadrados-despejando-la-ecuacion)
+    - [Clase 6 Generando Predicciones en Papel](#clase-6-generando-predicciones-en-papel)
+  - [Modulo 4 Proyecto del curso](#modulo-4-proyecto-del-curso)
+    - [Clase 7 Llevando Nuestro Algoritmo a Python](#clase-7-llevando-nuestro-algoritmo-a-python)
+    - [Clase 8 Creando Nuestra Función de Graficacion](#clase-8-creando-nuestra-función-de-graficacion)
+    - [Clase 9 Codigo Main y Probando Nuestro Codigo](#clase-9-codigo-main-y-probando-nuestro-codigo)
+
 ## Modulo 1 Bienvenida al curso
 
 ### Clase 1 Introduccion
